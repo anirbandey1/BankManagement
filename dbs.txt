@@ -1,4 +1,4 @@
-002111 "Dipayan Ghosh" 20000
+
 002112 "Sumit Agarwal" 19001
 002113 "Abhishek Jaluka" 24321
 002114 "Anirban Dey" 23231
